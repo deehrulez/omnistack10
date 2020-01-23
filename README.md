@@ -10,11 +10,11 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Rocketseat/semana-omnistack-10">
   
-  <a href="https://github.com/Rocketseat/semana-omnistack-10/commits/master">
+  <a href="https://github.com/deehrulez/omnistack10/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rocketseat/semana-omnistack-10">
   </a>
 
-  <a href="https://github.com/Rocketseat/semana-omnistack-10/issues">
+  <a href="https://github.com/deehrulez/omnistack10/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Rocketseat/semana-omnistack-10">
   </a>
 
@@ -46,7 +46,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
+O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias. 
+O projeto foi desenvolvido através das aulas que nos foram disponibilizadas na #SemanaOmniStack da Rocketseat. 
 
 ## 🔖 Layout
 
@@ -69,4 +70,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Aulas Feitas com ♥ by Rocketseat :wave: [Entre na comunidade deles!](https://discordapp.com/invite/gCRAFhc)
